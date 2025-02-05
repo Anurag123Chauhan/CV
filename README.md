@@ -14,10 +14,6 @@ Hi! I'm Anurag Chauhan, a passionate professional with experience in [mention yo
 ## Contact
 
 Feel free to reach out to me through the following channels:
-- **Email:** [your.email@example.com](mailto:chauhananurag322@gmail.com)
-
-## Preview
-
-![Resume Preview](path/to/your/resume/preview/image.png)
+- **Email:** (mailto:chauhananurag322@gmail.com)
 
 Thank you for visiting my CV repository!
